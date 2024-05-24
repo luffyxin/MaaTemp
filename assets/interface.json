@@ -10,7 +10,7 @@
             "win32": {
                 "method": "Search",
                 "class_name": ".*",
-                "window_name": "Visual Studio"
+                "window_name": "CubeRPA"
             }
         }
     ],
